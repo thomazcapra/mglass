@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2fbe35dab60c4665f6af82df948c8aa4",
+    "revision": "ca29f53429050174e72952315f77b658",
     "url": "/thomazcapra/mglass/index.html"
   },
   {
-    "revision": "39f02a5ebb0354c2543f",
+    "revision": "03d3ba8885f51a6b603f",
     "url": "/thomazcapra/mglass/static/css/main.5ecd60fb.chunk.css"
   },
   {
-    "revision": "eccc2fcacbfe09ffe37d",
-    "url": "/thomazcapra/mglass/static/js/2.82348c90.chunk.js"
+    "revision": "c72cc1f073d8ab262f97",
+    "url": "/thomazcapra/mglass/static/js/2.1bc1b693.chunk.js"
   },
   {
-    "revision": "39f02a5ebb0354c2543f",
-    "url": "/thomazcapra/mglass/static/js/main.42c3637e.chunk.js"
+    "revision": "03d3ba8885f51a6b603f",
+    "url": "/thomazcapra/mglass/static/js/main.d1178823.chunk.js"
   },
   {
     "revision": "84c671252e949ccd11df",

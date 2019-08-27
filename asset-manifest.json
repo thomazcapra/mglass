@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/thomazcapra/mglass/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/thomazcapra/mglass/static/js/main.42c3637e.chunk.js",
+    "main.js.map": "/thomazcapra/mglass/static/js/main.42c3637e.chunk.js.map",
+    "runtime~main.js": "/thomazcapra/mglass/static/js/runtime~main.00415a67.js",
+    "runtime~main.js.map": "/thomazcapra/mglass/static/js/runtime~main.00415a67.js.map",
+    "static/js/2.82348c90.chunk.js": "/thomazcapra/mglass/static/js/2.82348c90.chunk.js",
+    "static/js/2.82348c90.chunk.js.map": "/thomazcapra/mglass/static/js/2.82348c90.chunk.js.map",
+    "index.html": "/thomazcapra/mglass/index.html",
+    "precache-manifest.9a9f547d89aa03764e809cfd75004ecc.js": "/thomazcapra/mglass/precache-manifest.9a9f547d89aa03764e809cfd75004ecc.js",
+    "service-worker.js": "/thomazcapra/mglass/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/thomazcapra/mglass/static/css/main.5ecd60fb.chunk.css.map"
+  }
+}

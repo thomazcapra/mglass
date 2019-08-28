@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/thomazcapra/mglass/static/css/main.69eda509.chunk.css",
-    "main.js": "/thomazcapra/mglass/static/js/main.d1178823.chunk.js",
-    "main.js.map": "/thomazcapra/mglass/static/js/main.d1178823.chunk.js.map",
-    "runtime~main.js": "/thomazcapra/mglass/static/js/runtime~main.00415a67.js",
-    "runtime~main.js.map": "/thomazcapra/mglass/static/js/runtime~main.00415a67.js.map",
-    "static/js/2.1bc1b693.chunk.js": "/thomazcapra/mglass/static/js/2.1bc1b693.chunk.js",
-    "static/js/2.1bc1b693.chunk.js.map": "/thomazcapra/mglass/static/js/2.1bc1b693.chunk.js.map",
-    "index.html": "/thomazcapra/mglass/index.html",
-    "precache-manifest.c009c75baa95a9ee713bcf75aab39604.js": "/thomazcapra/mglass/precache-manifest.c009c75baa95a9ee713bcf75aab39604.js",
-    "service-worker.js": "/thomazcapra/mglass/service-worker.js",
-    "static/css/main.69eda509.chunk.css.map": "/thomazcapra/mglass/static/css/main.69eda509.chunk.css.map"
+    "main.css": "/mglass/static/css/main.69eda509.chunk.css",
+    "main.js": "/mglass/static/js/main.c652e2d1.chunk.js",
+    "main.js.map": "/mglass/static/js/main.c652e2d1.chunk.js.map",
+    "runtime~main.js": "/mglass/static/js/runtime~main.fb420fcc.js",
+    "runtime~main.js.map": "/mglass/static/js/runtime~main.fb420fcc.js.map",
+    "static/js/2.1bc1b693.chunk.js": "/mglass/static/js/2.1bc1b693.chunk.js",
+    "static/js/2.1bc1b693.chunk.js.map": "/mglass/static/js/2.1bc1b693.chunk.js.map",
+    "index.html": "/mglass/index.html",
+    "precache-manifest.354658f3662d0ba19a8e1f68d1b76d6e.js": "/mglass/precache-manifest.354658f3662d0ba19a8e1f68d1b76d6e.js",
+    "service-worker.js": "/mglass/service-worker.js",
+    "static/css/main.69eda509.chunk.css.map": "/mglass/static/css/main.69eda509.chunk.css.map"
   }
 }

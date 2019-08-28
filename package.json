@@ -2,7 +2,7 @@
   "name": "mglass",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/thomazcapra/mglass",
+  "homepage": "https://github.com/mglass",
   "dependencies": {
     "@material-ui/core": "^4.3.3",
     "@types/jest": "24.0.18",
